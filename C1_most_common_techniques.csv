@@ -1,0 +1,11 @@
+technique entry (tactic : technique : sub-technique),groups using it (of 16),share
+Impact : Data Encrypted for Impact : NoSubTechnique,16,100%
+Initial Access : External Remote Services : NoSubTechnique,12,75%
+Persistence : External Remote Services : NoSubTechnique,12,75%
+Defense Evasion : Impair Defenses : Disable or Modify Tools,10,62%
+Command and Control : Remote Access Software : NoSubTechnique,9,56%
+Execution : Command and Scripting Interpreter : PowerShell,9,56%
+Lateral Movement : Remote Services : Remote Desktop Protocol,9,56%
+Privilege Escalation : Valid Accounts : Domain Accounts,8,50%
+Initial Access : Exploit Public-Facing Application : NoSubTechnique,8,50%
+Discovery : Network Service Discovery : NoSubTechnique,7,44%

@@ -1,0 +1,9 @@
+result,reported (code: containment),paper's Eq. 1 (overlap)
+"Table 5: same group, Blackcat",0.56,0.68
+"Table 5: same group, Lockbit",0.41,0.45
+"Table 5: same group, Play",0.28,0.47
+"Table 5: same group, Blackbasta",0.36,0.36
+"Table 5: same group, Royal",0.25,0.25
+"Table 5: same group, average",0.37,0.44
+"Table 6a: different groups, company",0.21,0.45
+"Table 6b: different groups, CISA",0.21,0.39

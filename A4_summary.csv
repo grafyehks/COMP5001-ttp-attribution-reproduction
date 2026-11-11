@@ -1,0 +1,8 @@
+topic,paper,we found,effect on conclusion
+Reproducibility,Results produced by the released notebook,"15/15 headline numbers and 248/248 table values reproduced; setup needed Python <3.14 (A1, A2, A2b)",Supports trust in the computation
+Metric,"Tables 5-6 use overlap (Eq. 1): same group 0.37, different groups 0.21","Code uses containment; with Eq. 1: same group 0.44, different groups 0.45 (B1)",Numbers need correcting; the paper understates how alike groups are
+Signal vs chance,"Only averages, no statistical test","Same-group reports more alike (0.55 vs 0.41, p = 0.005) (B2)","TTPs are a real clue, but too shared to be proof"
+Study design,Table 5 (single reports) is compared with Table 6 (combined group profiles),Combined profiles share more by construction; comparing single reports on both sides gives a fairer test (B2),Compare like with like in future work
+Common techniques,Not analysed,1 entry used by all 16 groups; without common entries: same group 0.48 vs different 0.23 (C1),Weight rare techniques more than common ones
+Information islands,Company and CISA overlap about 0.35,Each source misses part of every group; only 0-3 strong clues per group (C2),Supports the paper's call for data sharing
+Sources,"13 CISA reports, all published in 2023",1 report (Royal) missing; 3 issued in 2024; 1 impossible date; Excel = data files (A3),Documentation needs an erratum; results unaffected

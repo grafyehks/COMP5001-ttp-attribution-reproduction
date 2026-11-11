@@ -1,0 +1,16 @@
+result,where in paper,paper,reproduced,match
+"Silhouette score, Euclidean",Sec. 4.2,-0.0864,-0.0864,✅
+"Silhouette score, cosine",Sec. 4.2,-0.0873,-0.0873,✅
+Same-group similarity: Blackcat,Table 5,0.56,0.56,✅
+Same-group similarity: Lockbit,Table 5,0.41,0.41,✅
+Same-group similarity: Play,Table 5,0.28,0.28,✅
+Same-group similarity: Blackbasta,Table 5,0.36,0.36,✅
+Same-group similarity: Royal,Table 5,0.25,0.25,✅
+Same-group similarity: average,Table 5,0.37,0.37,✅
+"Different-group similarity, company",Table 6a / Sec. 4.2,0.21,0.21,✅
+"Different-group similarity, CISA",Table 6b / Sec. 4.2,0.21,0.21,✅
+"Table 7 mean: techniques, company",Table 7,27.25,27.25,✅
+"Table 7 mean: techniques, CISA",Table 7,37.62,37.62,✅
+Table 7 mean: containment company->CISA,Table 7,0.3,0.3,✅
+Table 7 mean: containment CISA->company,Table 7,0.22,0.22,✅
+Table 7 mean: overlap,Table 7,0.35,0.35,✅

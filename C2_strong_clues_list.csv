@@ -1,0 +1,7 @@
+group,strong clue (tactic: technique - sub-technique)
+Blackcat,Credential Access : Steal or Forge Kerberos Tickets : Kerberoasting
+Play,Collection : Archive Collected Data : Archive via Utility
+Royal,Defense Evasion : Indicator Removal : Clear Windows Event Logs
+Carver Phobos,Credential Access : OS Credential Dumping : Cached Domain Credentials
+Carver Phobos,Credential Access : Brute Force : Password Guessing
+Carver Phobos,Persistence : Boot or Logon Autostart Execution : Registry Run Keys / Startup Folder

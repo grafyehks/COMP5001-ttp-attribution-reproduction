@@ -1,0 +1,5 @@
+pile,pairs,value
+same group,21,0.553
+different groups,330,0.411
+gap (same - different),-,0.142
+p-value (2000 shuffles),-,0.005

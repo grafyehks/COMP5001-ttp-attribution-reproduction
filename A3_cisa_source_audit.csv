@@ -1,0 +1,14 @@
+CISA group,techniques,in Appendix D,PDF in artifact,advisory,Appendix D date,date on archived PDF,check
+ALPHV,10,yes,yes,AA23-353A,2023-12-19,2023-12-19,OK
+Akira,29,yes,yes,AA24-109A,2023-04-18,2024-04-18,"⚠️ issued in 2024, paper says 2023"
+AvosLocker,27,yes,yes,AA23-284A,2023-10-11,2023-10-11,OK
+Bian Lian,35,yes,yes,AA23-136A,2023-05-16,"2023-05-16, revised 2024-11-20",⚠️ archived copy is a later revision
+Black Basta,23,yes,yes,AA24-131A,2023-03-10,revision dated 2024-11-08,"⚠️ issued in 2024, paper says 2023; archived copy is a later revision"
+Cl0p,55,yes,yes,AA23-158A,2023-06-07,2023-06-07,OK
+DPRK,23,yes,yes,AA23-040A,2023-02-09,2023-02-09,OK
+Lockbit,60,yes,yes,AA23-075A,2023-03-16,2023-03-16,OK
+Phobos,49,yes,yes,AA24-060A,2023-02-29,2024-02-29,"⚠️ issued in 2024, paper says 2023; Appendix D date does not exist"
+Play,18,yes,yes,AA23-352A,2023-12-18,2023-12-18,OK
+Rhysida,34,yes,yes,AA23-319A,2023-11-15,2023-11-15,OK
+Royal,46,no,no,-,-,-,⚠️ not in Appendix D
+Snatch,88,yes,yes,AA23-263A,2023-09-20,2023-09-20,OK

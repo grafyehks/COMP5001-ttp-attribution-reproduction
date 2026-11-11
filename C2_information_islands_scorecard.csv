@@ -1,0 +1,7 @@
+group (company / CISA),seen by both,company only,CISA only,company sees,CISA sees,strong clues,"common, confirmed",unverified leads,weak,link uncertain?
+Blackcat / ALPHV,2,41,8,84%,20%,1,1,33,16,no
+Lockbit / Lockbit,9,33,51,45%,65%,0,9,70,14,no
+Play / Play,10,18,8,78%,50%,1,9,18,8,no
+Blackbasta / Black Basta,7,19,16,62%,55%,0,7,25,10,no
+Royal / Royal,9,12,37,36%,79%,1,8,36,13,no
+Carver Phobos / Phobos,8,27,41,46%,64%,3,5,56,12,yes (#?)
