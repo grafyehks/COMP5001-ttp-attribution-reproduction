@@ -1,0 +1,17 @@
+report,techniques,nearest report,its techniques,similarity,same group?
+Blackcat #0,22,Blackcat #2,17,0.94,True
+Blackcat #1,20,Lockbit #5,24,0.85,False
+Blackcat #2,17,ESXIArgs #18,3,1.0,False
+Blackcat #3,24,Blackcat #4,15,0.93,True
+Blackcat #4,15,ESXIArgs #18,3,1.0,False
+Lockbit #5,24,Play #9,12,0.92,False
+Lockbit #6,25,Blackcat #4,15,0.87,False
+Lockbit #7,20,ESXIArgs #18,3,1.0,False
+Play #8,20,Play #9,12,0.83,True
+Play #9,12,Lockbit #5,24,0.92,False
+Play #10,12,ESXIArgs #18,3,1.0,False
+Play #11,4,Royal #17,12,0.75,False
+Blackbasta #12,11,Royal #16,12,0.64,False
+Blackbasta #13,19,Play #11,4,0.5,False
+Royal #16,12,ESXIArgs #18,3,0.67,False
+Royal #17,12,Play #11,4,0.75,False
