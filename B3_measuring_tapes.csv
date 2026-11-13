@@ -1,5 +1,0 @@
-setting,same group (Table 5),"different groups, company (6a)","different groups, CISA (6b)",same minus different (company)
-1. Authors' code (containment),0.37,0.21,0.21,0.16
-2. Paper's Eq. 1 (overlap),0.44,0.45,0.39,-0.01
-3. Jaccard,0.25,0.16,0.16,0.09
-"4. Eq. 1, technique level",0.59,0.57,0.48,0.03
